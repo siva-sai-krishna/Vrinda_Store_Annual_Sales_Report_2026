@@ -4,8 +4,6 @@
 
 The Vrinda Store wants to create an annual sales report for 2026. So that, the owner of the Vrinda store can understand their customers and grow more sales in 2027 & 2028.
 
-## **Dataset used**
-- <a https://github.com/siva-sai-krishna/Vrinda_Store_Annual_Sales_Report_2026/blob/main/Vrinda%20Store%20Data.xlsx> Vrinda Store Data</a>
 ## **Questions (KPIs)**
 
 - Compare the sales and orders using single chart.
@@ -17,9 +15,7 @@ The Vrinda Store wants to create an annual sales report for 2026. So that, the o
 - Which Channel is contributing maximum to the sales?
 - Highest selling category?
 - Percentage of Total Orders delivered
-- Dashboard Interaction <a https://github.com/siva-sai-krishna/Vrinda_Store_Annual_Sales_Report_2026/blob/main/Dashboard.png>View Dashboard</a>
    
-
 
 ## **Process**
 
